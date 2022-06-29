@@ -1,4 +1,6 @@
-# Dijkstra's Shortest Path Algorithm
+## Ex no: 3
+## Date: 10/5/2022
+# <p align="center">Dijkstra's Shortest Path Algorithm
 ## AIM
 
 To develop a code to find the shortest route from the source to the destination point using Dijkstra's shortest path algorithm.
